@@ -1,7 +1,7 @@
 import time
 while (True):
 	try:
-		x = input("See all prime numbers from 0 to a given number:")
+		x = input("See all prime numbers less than a given number:")
 		n = int(x)
 		break
 	except:
